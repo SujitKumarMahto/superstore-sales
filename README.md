@@ -35,7 +35,6 @@ The goal of this project is to uncover insights on sales, profit, customer behav
 - Top 10 Customers  
 - Customer Segmentation (High/Medium/Low)  
 - Correlation between Sales & Profit  
-
 ---
 
 ## 🚀 How to Use
